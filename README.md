@@ -5,7 +5,7 @@ do not use it for illegal reasons
 
 always ask for permission 
 # for the skids
-copy this url{https://github.com/taha185/SCRAP_ME.git}
+copy this url: https://github.com/taha185/SCRAP_ME.git
 
 and "git clone the url" 
 and your done!!
