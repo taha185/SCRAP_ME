@@ -9,8 +9,9 @@ print("""
 |____/ \____|_| \_\/_/   \_\_|     |_|  |_|_____|
 """)
 
+print("1 to exit, 0 to keep going\n")
 user_input = input("Choose option: ")
-print("1 to exit, 0 to keep going")
+
 
 if user_input == '1':
     print("Exited with code 0")
