@@ -7,6 +7,8 @@ always ask for permission
 # for the skids
 copy this url: https://github.com/taha185/SCRAP_ME.git
 
+then pip install requests
+
 and "git clone the url" 
 and your done!!
 
